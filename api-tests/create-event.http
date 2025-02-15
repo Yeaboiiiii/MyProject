@@ -1,0 +1,10 @@
+POST http://localhost:8081/events
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJhbUBnbWFpbC5jb20iLCJleHAiOjE3Mzk2Mjk3NDksInVzZXJJZCI6MX0.cemmu6TnrBWDoQvIZ20iw0XCPJ374dEWybUlZ5EZpx8
+
+{
+    "name": "ram event",
+    "description": "a test 2",
+    "location": "India 2",
+    "dateTime": "2025-01-01T15:30:00.00Z"
+}

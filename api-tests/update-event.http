@@ -1,0 +1,10 @@
+PUT http://localhost:8081/events/3
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im9AZ21haWwuY29tIiwiZXhwIjoxNzM5NjI2OTkwLCJ1c2VySWQiOjV9.xCkmDx8UJAaQaZUkSU-Z6KIGADzqAXgjX-LGX5wCu1Q
+
+{
+    "name": "updatesadas",
+    "description": "a test 3",
+    "location": "India 3334343",
+    "dateTime": "2025-01-01T15:30:00.00Z"
+}
